@@ -1,0 +1,27 @@
+{
+  "name": "cse341-week8",
+  "version": "1.0.0",
+  "description": "This is a project that uses REST API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozonuweg/cse341-week8.git"
+  },
+  "author": "Glory Ozonuwe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozonuweg/cse341-week8/issues"
+  },
+  "homepage": "https://github.com/ozonuweg/cse341-week8#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
